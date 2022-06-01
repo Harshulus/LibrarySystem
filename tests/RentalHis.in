@@ -1,0 +1,12 @@
+add collection SampleCollection.csv
+add collection SampleCollection.csv
+add member asvi
+add member bob
+member history 100000
+rent 100000 111111
+rent 100000 111115
+relinquish 100000 111115
+relinquish 100000 111111
+member history 100002
+member history 100001
+member history 100000

@@ -1,0 +1,5 @@
+list genres
+add book SampleCollection.csv 111111
+list genres
+genre
+genre comedy

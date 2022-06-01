@@ -1,0 +1,9 @@
+add member adam
+add member bob 
+add collection SampleCollection.csv 
+rent 100000 111111
+rent 100001 111111
+rent 100002 111112
+member books 100000
+member books 100001
+exit
